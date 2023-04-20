@@ -289,5 +289,5 @@ defaults:
       comments:  true
       share: true
       related: true
-      classes : wide
+      classes : single
       
